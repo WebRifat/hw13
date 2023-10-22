@@ -1,0 +1,80 @@
+.heading{
+    color: green;
+    text-transform: uppercase;
+    font-family: arial;
+    font-size: 30px;
+    text-align: center;
+}
+.box .btn{
+    color: white;
+    background-color: orange;
+    border: none;
+    padding: 12px 15px;
+    display: block;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin: auto;
+    transition: 0,5s;
+    -webkit-transition: 0,5s;
+    -moz-transition: 0,5s;
+    -ms-transition: 0,5s;
+    -o-transition: 0,5s;
+}
+.box .btn:hover{
+    background-color: dodgerblue;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+
+
+
+img{
+    margin-left: 45%;
+}
+.onbtn{
+    color: white;
+    background-color: green;
+    margin-left: 44%;
+    width: 70px;
+    height: 30px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+
+}
+.onbtn:hover{
+    background-color: dodgerblue;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+.offbtn{
+    color: white;
+    background-color: green;
+    margin-left: 2%;
+    width: 70px;
+    height: 30px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+
+}
+.offbtn:hover{
+    background-color: dodgerblue;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+
+}
